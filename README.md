@@ -16,3 +16,10 @@ The synthetic wave is filtered, and the noise wave whose frequency is too small 
 <p align="center">
 <img src="https://github.com/lqi25/MiniProject3/blob/master/img/fig2.png"/> 
 </p>
+
+### Pygal
+pygal, which provides interactive images that can be embedded directly into a web browser. It can output charts to svg format. With just a few simple lines of code, you can make charts for histograms, line charts, pie charts, and more.
+
+
+### Seaborn
+Seaborn has a more advanced API package based on matplotlib, which can make a variety of statistical charts, which is convenient for users to analyze and statistics the data.
