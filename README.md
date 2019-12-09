@@ -19,6 +19,9 @@ The synthetic wave is filtered, and the noise wave whose frequency is too small 
 
 ### Pygal
 pygal, which provides interactive images that can be embedded directly into a web browser. It can output charts to svg format. With just a few simple lines of code, you can make charts for histograms, line charts, pie charts, and more.
+<p align="center">
+<img width="460" height="300" src="https://github.com/lqi25/MiniProject3/blob/master/img/fig4.png"/> 
+</p>
 
 
 ### Seaborn
