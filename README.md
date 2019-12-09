@@ -26,3 +26,6 @@ pygal, which provides interactive images that can be embedded directly into a we
 
 ### Seaborn
 Seaborn has a more advanced API package based on matplotlib, which can make a variety of statistical charts, which is convenient for users to analyze and statistics the data.
+<p align="center">
+<img width="700" height="300" src="https://github.com/lqi25/MiniProject3/blob/master/img/fig5.png"/> 
+</p>
