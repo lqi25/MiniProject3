@@ -29,3 +29,9 @@ Seaborn has a more advanced API package based on matplotlib, which can make a va
 <p align="center">
 <img width="700" height="300" src="https://github.com/lqi25/MiniProject3/blob/master/img/fig5.png"/> 
 </p>
+
+### Dash
+Dash is a very convenient python framework for building web applications. It is based on Flask, Poltly, React.js, does not require JavaScript, and uses pure python to implement a web-based data visualization interface. It can easily interact with the front-end and back-end data, and draw various charts such as histograms and scatter plots.
+<p align="center">
+<img width="700" height="300" src="https://github.com/lqi25/MiniProject3/blob/master/img/fig6.png"/> 
+</p>
