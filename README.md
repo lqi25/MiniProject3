@@ -8,3 +8,7 @@ Matplotlib is the oldest and most widely used data visualization library for Pyt
 
 #### Signal processing
 Matplotlib can perform signal processing, such as cleaning noisy sine waves.
+Create a sine wave with a frequency of 2000Hz, then create a noise wave with a frequency of 80HZ, convert them into numpy arrays, and add the two to generate a noisy sine wave. The results are shown in Figure 1. 
+<img src="https://github.com/lqi25/MiniProject3/blob/master/img/fig1.png"/> 
+The synthetic wave is filtered, and the noise wave whose frequency is too small is filtered out. The result is shown in fig2. After the filtering, the displayed sine wave is the same as the original wave.
+<img src="https://github.com/lqi25/MiniProject3/blob/master/img/fig2.png"/> 
