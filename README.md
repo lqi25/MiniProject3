@@ -11,8 +11,8 @@ Matplotlib can perform signal processing, such as cleaning noisy sine waves.
 Create a sine wave with a frequency of 2000Hz, then create a noise wave with a frequency of 80HZ, convert them into numpy arrays, and add the two to generate a noisy sine wave. The results are shown in Figure 1.   
 <p align="center">
 <img src="https://github.com/lqi25/MiniProject3/blob/master/img/fig1.png"/> 
-fig1
 </p>
 The synthetic wave is filtered, and the noise wave whose frequency is too small is filtered out. The result is shown in fig2. After the filtering, the displayed sine wave is the same as the original wave.   
-
+<p align="center">
 <img src="https://github.com/lqi25/MiniProject3/blob/master/img/fig2.png"/> 
+</p>
